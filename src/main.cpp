@@ -15,7 +15,7 @@ unsigned long time;
 unsigned long lastPulseTime;
 unsigned long lastCode=0;
 byte motorDir = motorDirStop;
-byte mode = modeStateSwitch;
+byte mode = modeStateSwitch; 
 
 void loop() {
 }
